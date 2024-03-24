@@ -26,7 +26,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "ᐅᎫᎪΝႮᐤ",
-    "PREFIX": "+",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
@@ -67,7 +67,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒☜ ༺                                                 ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                   ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℙ𝕒𝕘𝕒𝕝 𝕔𝕙𝕠𝕣𝕒☜ ༺                                                 ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝐏𝐈𝐇𝐔〠.༒                                   ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/PriyanshiKaurJi☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/PriyanshiKaurJi☜",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -78,7 +78,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞Priyanshi Kaur☜ ༺                                                  ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙurv〠.༒                                    ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/pagalchora143?mibextid=ZbWKwL?id=100038374310301☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Pagalchora001☜",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝐏𝐑𝐈𝐘𝐀𝐍𝐒𝐇𝐈 𝐊𝐀𝐔𝐑☜ ༺                                                  ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝐏𝐈𝐇𝐔〠.༒                                    ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/PriyanshiKaurJi☜                                              ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/PriyanshiKaurJi☜",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
