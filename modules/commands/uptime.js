@@ -131,9 +131,9 @@ registerFont(__dirname + `/cache/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "55px time";
-    ctx.fillText("ARUN", 930, 540)
-    ctx.fillText("Arun Kumar", 930, 610)
-    ctx.fillText("Arun Kumar", 930, 690)
+    ctx.fillText("@priyanshikaurji", 930, 540)
+    ctx.fillText("AJKINGBC01", 930, 610)
+    ctx.fillText("m.facebook.com/PriyanshiKaurJi", 930, 690)
     ctx.restore();
     ctx.save();
     ctx.beginPath();
