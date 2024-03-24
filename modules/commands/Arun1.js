@@ -17,7 +17,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
      react.includes("Pihu") || 
 react.includes("@Priyanshi Kaur")) {
 		var msg = {
-				body: "★𝗢𝘄𝗻𝗲𝗿 + 𝗠𝗮𝗱𝗲 𝗕𝘆★\n\n✦𝐏𝐑𝐈𝐘𝐀𝐍𝐒𝐇𝐈 𝐊𝐀𝐔𝐑✦\n\n★★᭄𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐋𝐢𝐧𝐤 :\n\n✦ t.me/PriyanshiKaurJi ✦ \n𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗚𝗿𝗼𝘂𝗽 \n 𝗞𝗮𝗮𝗹 𝗟𝗼𝗸 😋https://m.me/j/AbayaOdEPuOr1q65/`",
+				body: "★𝗢𝘄𝗻𝗲𝗿 + 𝗠𝗮𝗱𝗲 𝗕𝘆★\n\n✦𝐏𝐑𝐈𝐘𝐀𝐍𝐒𝐇𝐈 𝐊𝐀𝐔𝐑✦\n\n★★𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤 :\n\n✦ t.me/PriyanshiKaurJi ✦ \n𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗚𝗿𝗼𝘂𝗽 \n 𝗞𝗮𝗮𝗹 𝗟𝗼𝗸 😋https://m.me/j/AbayaOdEPuOr1q65/`",
 				attachment: fs.createReadStream(__dirname + `/noprefix/kk1.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
