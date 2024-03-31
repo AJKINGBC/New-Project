@@ -6,7 +6,7 @@
     "allowInbox": true,
     "autoClean": false,
     "adminOnly": false,
-    "keyAdminOnly": "", 
+    "keyAdminOnly": "",
     "commandDisabled": [
         "",
         "",
